@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.requestLabels{
+	text-align: right;
+	padding-right: 2rem;
+}
+.left{
+	text-align: left;
+}
